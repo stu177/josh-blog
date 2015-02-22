@@ -16,7 +16,7 @@ return array(
     |
     */
 
-    'debug' => true,
+    'debug' => false,
 
     /*
     |--------------------------------------------------------------------------
@@ -29,7 +29,7 @@ return array(
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://josh.stu.website/',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +81,7 @@ return array(
     |
     */
 
-    'key' => 'CHANGE_ME!!!!!!!',
+    'key' => 'QnYGSpe8sj3HL4mpFfg0Wr5ALrGKddfk',
 
     'cipher' => MCRYPT_RIJNDAEL_128,
 
